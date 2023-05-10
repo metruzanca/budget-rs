@@ -1,0 +1,10 @@
+[income.bento]
+salary = 135000
+benefits = { d = 1 }
+
+
+[expense]
+rent = 2300
+food = 200
+transport = 100
+

@@ -1,0 +1,23 @@
+{
+    "income": {
+        "salary": {
+            "amount": 2000,
+            "frequency": "monthly"
+        },
+        "bonus": {
+            "amount": 1000,
+            "frequency": "yearly"
+        }
+    },
+    "expenses": {
+        "rent": 1000,
+        "renters_insurance": {
+            "amount": 96,
+            "frequency": "yearly"
+        },
+        "utilities": {
+            "amount": 200,
+            "frequency": "monthly"
+        }
+    }
+}
