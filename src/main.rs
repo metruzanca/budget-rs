@@ -16,9 +16,3 @@ fn main() {
     let file = File::open("./config/budget.json").unwrap();
     dbg!(file);
 }
-
-/*
-TODO
-- [ ] Configurable paths
-- [ ] toml schema
-*/
